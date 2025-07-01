@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body, h1, h2, h3, h4, h5, p, button {
+    font-family: 'Outfit', sans-serif;
+}
+
+hr {
+    background-color: #000000; /* will replace color later */
+    height: 3px;
+    border: none;
+}
